@@ -1,42 +1,360 @@
 @font-face {
-    font-family: 'Menk Qimed Tig';
-    src: url('MenkQimedTig.ttf') format('truetype');
+    font-family: 'Mongolian 56SanGuo';
+    src: url('Mongolian56SanGuo.woff2') format('woff2'),
+        url('Mongolian56SanGuo.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Mongolian BangXi';
+    src: url('MongolianBangXi.woff2') format('woff2'),
+        url('MongolianBangXi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian ChaganNarin';
+    src: url('MongolianChaganNarin.woff2') format('woff2'),
+        url('MongolianChaganNarin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian GurbanUlus';
+    src: url('MongolianGurbanUlus.woff2') format('woff2'),
+        url('MongolianGurbanUlus.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian GarchagHara';
+    src: url('MongolianGarchagHara.woff2') format('woff2'),
+        url('MongolianGarchagHara.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian ChaganTegshi';
+    src: url('MongolianChaganTegshi.woff2') format('woff2'),
+        url('MongolianChaganTegshi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Daromal';
+    src: url('MongolianDaromal.woff2') format('woff2'),
+        url('MongolianDaromal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Ebhemel';
+    src: url('MongolianEbhemel.woff2') format('woff2'),
+        url('MongolianEbhemel.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian HorqinNarin';
+    src: url('MongolianHorqinNarin.woff2') format('woff2'),
+        url('MongolianHorqinNarin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian HaraTegsi';
+    src: url('MongolianHaraTegsi.woff2') format('woff2'),
+        url('MongolianHaraTegsi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian HawangNarin';
+    src: url('MongolianHawangNarin.woff2') format('woff2'),
+        url('MongolianHawangNarin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian HolosonUjug';
+    src: url('MongolianHolosonUjug.woff2') format('woff2'),
+        url('MongolianHolosonUjug.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Hulusu6';
+    src: url('MongolianHulusu6.woff2') format('woff2'),
+        url('MongolianHulusu6.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Hulusu8';
+    src: url('MongolianHulusu8.woff2') format('woff2'),
+        url('MongolianHulusu8.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Hulusu9';
+    src: url('MongolianHulusu9.woff2') format('woff2'),
+        url('MongolianHulusu9.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Hulusu17';
+    src: url('MongolianHulusu17.woff2') format('woff2'),
+        url('MongolianHulusu17.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Hundei';
+    src: url('MongolianHundei.woff2') format('woff2'),
+        url('MongolianHundei.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Manglai';
+    src: url('MongolianManglai.woff2') format('woff2'),
+        url('MongolianManglai.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Narin';
+    src: url('MongolianNarin.woff2') format('woff2'),
+        url('MongolianNarin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Oigorjin';
+    src: url('MongolianOigorjin.woff2') format('woff2'),
+        url('MongolianOigorjin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian OnqaNarin';
+    src: url('MongolianOnqaNarin.woff2') format('woff2'),
+        url('MongolianOnqaNarin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Oran';
+    src: url('MongolianOran.woff2') format('woff2'),
+        url('MongolianOran.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Sanguo';
+    src: url('MongolianSanguo.woff2') format('woff2'),
+        url('MongolianSanguo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian ShineChagan';
+    src: url('MongolianShineChagan.woff2') format('woff2'),
+        url('MongolianShineChagan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian ShineHara';
+    src: url('MongolianShineHara.woff2') format('woff2'),
+        url('MongolianShineHara.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Shogom';
+    src: url('MongolianShogom.woff2') format('woff2'),
+        url('MongolianShogom.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Shosig';
+    src: url('MongolianShosig.woff2') format('woff2'),
+        url('MongolianShosig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Sonin';
+    src: url('MongolianSonin.woff2') format('woff2'),
+        url('MongolianSonin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian SoninChagan';
+    src: url('MongolianSoninChagan.woff2') format('woff2'),
+        url('MongolianSoninChagan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian SoninHara';
+    src: url('MongolianSoninHara.woff2') format('woff2'),
+        url('MongolianSoninHara.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Tatolga';
+    src: url('MongolianTatolga.woff2') format('woff2'),
+        url('MongolianTatolga.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian TubBichilge';
+    src: url('MongolianTubBichilge.woff2') format('woff2'),
+        url('MongolianTubBichilge.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian Tumen';
+    src: url('MongolianTumen.woff2') format('woff2'),
+        url('MongolianTumen.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mongolian UsunBir';
+    src: url('MongolianUsunBir.woff2') format('woff2'),
+        url('MongolianUsunBir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 @font-face {
     font-family: 'Menk Hawang Tig';
-    src: url('MenkHawangTig.ttf') format('truetype');
+    src: url('MenkHawangTig.woff2') format('woff2'),
+        url('MenkHawangTig.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Menk Lhundb Tig';
-    src: url('MenkLhundbTig.ttf') format('truetype');
+    src: url('MenkLhundbTig.woff2') format('woff2'),
+        url('MenkLhundbTig.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Menk Amglang Tig';
-    src: url('MenkAmglangTig.ttf') format('truetype');
+    src: url('MenkAmglangTig.woff2') format('woff2'),
+        url('MenkAmglangTig.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Menk Qimed Tig';
+    src: url('MenkQimedTig.woff2') format('woff2'),
+        url('MenkQimedTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 @font-face {
     font-family: 'Menk Qingming Tig';
-    src: url('MenkQingmingTig.ttf') format('truetype');
+    src: url('MenkQingmingTig.woff2') format('woff2'),
+        url('MenkQingmingTig.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'Menk Tvgvrai Tig';
-    src: url('MenkTvgvraiTig.ttf') format('truetype');
+    src: url('MenkTvgvraiTig.woff2') format('woff2'),
+        url('MenkTvgvraiTig.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
