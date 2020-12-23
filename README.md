@@ -8,7 +8,7 @@ an archive of public mongolian script webfonts
 
 [/stylesheet.css](stylesheet.css)
 
-[mongolianfonts](../fonts/mongolianfonts.html)
+[mongolianfonts](mongolianfonts.html)
 
 [../fonts/](../fonts/)
 
