@@ -1,4 +1,114 @@
 @font-face {
+    font-family: 'Mongolian Universal White';
+    src: url('MongolianUniversalWhite.woff2') format('woff2'),
+        url('MongolianUniversalWhite.woff') format('woff'),
+	url('MongolianUniversalWhite.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+	font-family: 'Mongolian Test';
+	src:local('Mongolian Test'),
+		url('MongolianTest.ttf') format('truetype');
+}
+@font-face {
+ 	font-family: 'Onon Sonin Sans';
+	src:local('Onon Sonin Sans'),
+    		url('OnonSoninSans.woff') format('woff');
+}
+@font-face {
+    font-family: 'Menk Garqag Tig';
+    src: url('MenkGarqagTig.woff2') format('woff2'),
+        url('MenkGarqagTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Menksoft2012';
+    src: url('Menksoft2012') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Oyun Garbiqimel Tig';
+    src: url('OyunGarbiqimelTig.woff2') format('woff2'),
+        url('OyunGarbiqimelTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+font-family: 'Mongolian White';
+src:local('Mongolian White'), url('mnglwhiteotf.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Mongolian Writing';
+src:local('Mongolian Writing'), url('mnglwritingotf.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Mongolian Art';
+src:local('Mongolian Art'), url('mnglartotf.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Mongolian Title';
+src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'MongolianScript';
+	src:local('MongolianScript'),
+		url('MongolianScript.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Noto Sans Mongolian';
+    src: url('NotoSansMongolian.woff2') format('woff2'),
+        url('NotoSansMongolian.woff') format('woff'),
+	url('NotoSansMongolian.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+font-family: 'Bichimel';
+src:local('Bichimel'), url('Bichimel.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Chagan';
+src:local('Chagan'), url('Chagan.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Garchag';
+src:local('Garchag'), url('Garchag.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Syurga';
+src:local('Syurga'), url('Syurga.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Urga';
+src:local('Urga'), url('Urga.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Menk Mcdvnbar Tig';
+    src: url('MenkMcdvnbarTig.woff2') format('woff2'),
+        url('MenkMcdvnbarTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mongolian Baiti';
+    src: url('MongolianBaiti.woff2') format('woff2'),
+        url('MongolianBaiti.woff') format('woff'),
+        url('MongolianBaiti.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Mongolian 56SanGuo';
     src: url('Mongolian56SanGuo.woff2') format('woff2'),
         url('Mongolian56SanGuo.woff') format('woff');
