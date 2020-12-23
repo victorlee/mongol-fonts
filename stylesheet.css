@@ -468,3 +468,21 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Menk Ujug Tig';
+    src: url('MenkUjugTig.woff2') format('woff2'),
+        url('MenkUjugTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menksoft';
+    src: url('MenksoftJclgq.woff2') format('woff2'),
+        url('MenksoftJclgq.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
