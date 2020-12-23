@@ -1,5 +1,19 @@
 # mongol-fonts
 
+an archive of mongolian script webfonts
+
+`@import url(https://victorlee.github.io/mongol-fonts/stylesheet.css);`
+
+[test the fonts!](../fonts/test.html)
+
+[/stylesheet.css](stylesheet.css)
+
+[mongolianfonts](../fonts/mongolianfonts.html)
+
+[../fonts/](../fonts/)
+
+[../manchu-fonts/](../manchu-fonts/)
+
 - `Mongolian Universal White` (Mongolian+Manchu)
 - `Onon Sonin Sans`
 - `Menk Garqag Tig`
