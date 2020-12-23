@@ -1,6 +1,6 @@
 # mongol-fonts
 
-an archive of mongolian script webfonts
+an archive of public domain mongolian script webfonts
 
 `@import url(https://victorlee.github.io/mongol-fonts/stylesheet.css);`
 
