@@ -37,6 +37,8 @@ an archive of public mongolian script webfonts
 - `Menk Qimed Tig`
 - `Menk Qingming Tig`
 - `Menk Tvgvrai Tig`
+- `Menk Ujug Tig`
+- `Menksoft`
 
 ## Chinese variants
 
