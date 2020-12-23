@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Menk Qimed Tig';
+    src: url('MenkQimedTig.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menk Hawang Tig';
+    src: url('MenkHawangTig.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Menk Lhundb Tig';
+    src: url('MenkLhundbTig.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Menk Amglang Tig';
+    src: url('MenkAmglangTig.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Menk Qingming Tig';
+    src: url('MenkQingmingTig.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Menk Tvgvrai Tig';
+    src: url('MenkTvgvraiTig.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
