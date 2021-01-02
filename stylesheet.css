@@ -63,9 +63,9 @@ src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans Mongolian';
-    src: url('NotoSansMongolian.woff2') format('woff2'),
-        url('NotoSansMongolian.woff') format('woff'),
-	url('NotoSansMongolian.ttf') format('truetype');
+    src: url('NotoSansMongolian-Regular.woff2') format('woff2'),
+        url('NotoSansMongolian-Regular.woff') format('woff'),
+        url('NotoSansMongolian-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
