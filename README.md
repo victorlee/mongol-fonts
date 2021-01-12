@@ -38,6 +38,7 @@ an archive of public mongolian script webfonts
 - `Menk Qingming Tig`
 - `Menk Tvgvrai Tig`
 - `Menk Ujug Tig`
+- `Classical Mongolian Dashtseden`
 
 ## Chinese variants
 
