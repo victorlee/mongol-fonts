@@ -491,3 +491,34 @@ src:local('Urga'), url('Urga.ttf') format('truetype');
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Menk BudunTig';
+    src: url('MenkBudunTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menk Sidam Tig';
+    src: url('MenkSidamTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menk Hvlvsvn Tig';
+    src: url('MenkHvlvsvnTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Menk Qagan Tig';
+    src: url('MenkQaganTig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
