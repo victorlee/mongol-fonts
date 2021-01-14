@@ -40,6 +40,10 @@ an archive of public mongolian script webfonts
 - `Menk Tvgvrai Tig`
 - `Menk Ujug Tig`
 - `Classical Mongolian Dashtseden`
+- `Menk Budun Tig`
+- `Menk Sidam Tig`
+- `Menk Hvlvsvn Tig`
+- `Menk Qagan Tig`
 
 ## Chinese variants
 
