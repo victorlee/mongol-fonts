@@ -14,6 +14,7 @@ an archive of public mongolian script webfonts
 
 [../manchu-fonts/](../manchu-fonts/)
 
+- **`Menk Qagan Tig`**
 - `Mongolian White`
   - `Unicode Range Mongolian White` (`unicode-range: U+1800-42, U+202F;`)
 - `Mongolian Writing`
@@ -43,7 +44,6 @@ an archive of public mongolian script webfonts
 - `Menk Budun Tig`
 - `Menk Sidam Tig`
 - `Menk Hvlvsvn Tig`
-- `Menk Qagan Tig`
 
 ## Chinese variants
 
