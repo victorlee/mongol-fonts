@@ -14,15 +14,15 @@ an archive of public mongolian script webfonts
 
 [../manchu-fonts/](../manchu-fonts/)
 
-- `Mongolian Universal White` (Mongolian+Manchu)
-- `Onon Sonin Sans`
-- `Menk Garqag Tig`
-- `Menksoft2012`
 - `Mongolian White`
   - `Unicode Range Mongolian White` (`unicode-range: U+1800-42, U+202F;`)
 - `Mongolian Writing`
 - `Mongolian Art`
 - `Mongolian Title`
+- `Mongolian Universal White` (Mongolian+Manchu)
+- `Onon Sonin Sans`
+- `Menk Garqag Tig`
+- `Menksoft2012`
 - `MongolianScript`
 - `Noto Sans Mongolian, sans-serif`
 - `Bichimel`
