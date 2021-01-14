@@ -19,6 +19,7 @@ an archive of public mongolian script webfonts
 - `Menk Garqag Tig`
 - `Menksoft2012`
 - `Mongolian White`
+  - `Unicode Range Mongolian White` (`unicode-range: U+1800-42, U+202F;`)
 - `Mongolian Writing`
 - `Mongolian Art`
 - `Mongolian Title`
