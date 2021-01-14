@@ -1,9 +1,4 @@
 @font-face {
-font-family: 'Unicode Range Mongolian White';
-src:local('Mongolian White'), url('mnglwhiteotf.ttf') format('truetype');
-unicode-range: U+1800-42, U+202F;
-}
-@font-face {
     font-family: 'Mongolian Universal White';
     src: url('MongolianUniversalWhite.woff2') format('woff2'),
         url('MongolianUniversalWhite.woff') format('woff'),
@@ -48,6 +43,11 @@ unicode-range: U+1800-42, U+202F;
 @font-face {
 font-family: 'Mongolian White';
 src:local('Mongolian White'), url('mnglwhiteotf.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Unicode Range Mongolian White';
+src:local('Mongolian White'), url('mnglwhiteotf.ttf') format('truetype');
+unicode-range: U+1800-42, U+202F;
 }
 @font-face {
 font-family: 'Mongolian Writing';
