@@ -69,7 +69,6 @@ src:local('Mongolian Title'), url('mngltitleotf.ttf') format('truetype');
 @font-face {
     font-family: 'Noto Sans Mongolian';
     src: url(NotoSansMongolian.woff2) format('woff2');
-    unicode-range: U+1800-185C, U+1880-18AA, U+202F;
 }
 @font-face {
 font-family: 'Bichimel';
